@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: monitor.calebstauffer.com
   # baseUrl: /uptime-monitor
-  apiBaseUrl: https://uptime-monitor-proxy.crstauf.workers.dev
+  apiBaseUrl: https://upptime-github-proxy.crstauf.workers.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CSSLLC Uptime Monitor
   introTitle: "CSSLLC Uptime Monitor"
