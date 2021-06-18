@@ -50,18 +50,20 @@
     "url": "https://www.strikepointmedia.com",
     "icon": "https://favicons.githubusercontent.com/www.strikepointmedia.com",
     "slug": "strikepointmedia-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 291,
-    "timeDay": 361,
-    "timeWeek": 267,
-    "timeMonth": 249,
+    "timeDay": 329,
+    "timeWeek": 271,
+    "timeMonth": 250,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-18": 0
+    }
   },
   {
     "name": "therealtymedics.com",
